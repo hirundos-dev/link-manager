@@ -1,13 +1,13 @@
 [
   {
     "tag": "Frontend",
-    "subtag": "Говно",
+    "subtag": "11111",
     "title": "React Docs",
     "url": "https://react.dev/"
   },
   {
     "tag": "Frontend",
-    "subtag": "Vue",
+    "subtag": "22222",
     "title": "Vue Docs",
     "url": "https://vuejs.org/"
   },
@@ -19,7 +19,7 @@
   },
   {
     "tag": "Backend",
-    "subtag": "Говно",
+    "subtag": "22222",
     "title": "Node.js Docs",
     "url": "https://nodejs.org/"
   }
