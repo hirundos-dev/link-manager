@@ -22,5 +22,41 @@
     "subtag": "22222",
     "title": "Node.js Docs",
     "url": "https://nodejs.org/"
+  },
+  {
+    "tag": "Текст",
+    "subtag": "Сервис",
+    "title": "Оценка понятности текста",
+    "url": "https://plainrussian.ru/"
+  },
+  {
+    "tag": "Текст",
+    "subtag": "Сервис",
+    "title": "Главред",
+    "url": "https://glvrd.ru/"
+  },
+  {
+    "tag": "Текст",
+    "subtag": "Сервис",
+    "title": "Правила русского языка",
+    "url": "https://therules.ru/"
+  },
+  {
+    "tag": "Текст",
+    "subtag": "Сервис",
+    "title": "Схемы транслитерации",
+    "url": "https://iuliia.ru/"
+  },
+  {
+    "tag": "Текст",
+    "subtag": "Сервис",
+    "title": "Типограф",
+    "url": "https://www.artlebedev.ru/typograf/"
+  },
+  {
+    "tag": "Текст",
+    "subtag": "Сервис",
+    "title": "Этимология слов",
+    "url": "https://etymolog.ruslang.ru/"
   }
 ]
