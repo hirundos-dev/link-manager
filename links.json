@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "Frontend",
+    "subtag": ["UI", "Говно"],
+    "title": "React Docs",
+    "url": "https://react.dev/"
+  },
+  {
+    "tag": "Frontend",
+    "subtag": "Vue",
+    "title": "Vue Docs",
+    "url": "https://vuejs.org/"
+  },
+  {
+    "tag": "Backend",
+    "subtag": ["Node.js", "API"],
+    "title": "Node.js Docs",
+    "url": "https://nodejs.org/"
+  }
+]
