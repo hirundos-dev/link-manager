@@ -1,7 +1,7 @@
 [
   {
     "tag": "Frontend",
-    "subtag": ["Говно"],
+    "subtag": "Говно",
     "title": "React Docs",
     "url": "https://react.dev/"
   },
@@ -19,7 +19,7 @@
   },
   {
     "tag": "Backend",
-    "subtag": ["Говно"],
+    "subtag": "Говно",
     "title": "Node.js Docs",
     "url": "https://nodejs.org/"
   }
