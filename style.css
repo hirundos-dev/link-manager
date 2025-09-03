@@ -69,7 +69,7 @@ header {
   margin: 0.5rem 0 0.5rem 0;
   text-transform: uppercase;
   font-weight: normal;
-  color: #555;
+  color: #adb5bd;
   font-size: 1rem;
 }
 
@@ -91,7 +91,6 @@ ul li a {
   color: #0366d6;
   text-decoration: none;
   padding: 2px 0;
-  border-bottom: 1px dashed #b3d1f7;
   transition: color 0.15s, border-bottom 0.15s;
   word-break: break-all;
 }
