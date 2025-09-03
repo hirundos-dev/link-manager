@@ -88,7 +88,7 @@ ul li:last-child {
 }
 
 ul li a {
-  color: #0366d6;
+  color: #212529;
   text-decoration: none;
   padding: 2px 0;
   transition: color 0.15s, border-bottom 0.15s;
@@ -98,7 +98,6 @@ ul li a {
 ul li a:hover {
   color: #024b9a;
   border-bottom: 1px solid #0366d6;
-  text-decoration: underline;
   background: #f0f8ff;
   border-radius: 2px;
 }
