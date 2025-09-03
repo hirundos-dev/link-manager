@@ -37,7 +37,7 @@
   },
   {
     "tag": "Текст",
-    "subtag": "Сервис",
+    "subtag": "Читать",
     "title": "Правила русского языка",
     "url": "https://therules.ru/"
   },
@@ -55,8 +55,82 @@
   },
   {
     "tag": "Текст",
-    "subtag": "Сервис",
+    "subtag": "Читать",
     "title": "Этимология слов",
     "url": "https://etymolog.ruslang.ru/"
+  },
+  {
+    "tag": "Текст",
+    "subtag": "Читать",
+    "title": "Сборник редполитик",
+    "url": "https://lalosh.notion.site/lalosh/0838797682d445a789d972a94ff3e834"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Каталог",
+    "title": "TypeType",
+    "url": "https://typetype.ru/freefonts/"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Каталог",
+    "title": "Paratype",
+    "url": "https://www.paratype.ru/"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Каталог",
+    "title": "Shimanov",
+    "url": "https://shimanov.pro/fonts"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Каталог",
+    "title": "Fonts.uprock",
+    "url": "https://www.fonts.uprock.ru/?license=%D0%94%D0%BB%D1%8F+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%86%D0%B8%D0%B8"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Каталог",
+    "title": "Fontshare",
+    "url": "https://www.fontshare.com/"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Каталог",
+    "title": "Fontsch",
+    "url": "https://t.me/s/fontsch"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Читать",
+    "title": "Blog TypeType",
+    "url": "https://typetype.ru/blog/"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Читать",
+    "title": "Blog Paratype",
+    "url": "https://info.paratype.ru/"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Читать",
+    "title": "Telegram Paratype",
+    "url": "https://t.me/s/paratype_fonts"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Читать",
+    "title": "Любимые шрифты известных дизайнеров",
+    "url": "https://awdee.ru/favorite-fonts-11-opinions-from-typographers-graphic-designers-product-designers-and-letterers/"
+  },
+  {
+    "tag": "Шрифты",
+    "subtag": "Читать",
+    "title": "🔥 Что делать, если нет бюджета на шрифты",
+    "url": "https://info.paratype.ru/no-funds-for-fonts/"
   }
 ]
+
+
